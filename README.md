@@ -1,2 +1,2 @@
 # Zyxel-P-2812HNUL-F1
-OpenWRT initramfs for Zyxel P-2812HNUL-F1 with broken wifi
+OpenWRT 18.06 initramfs image for Zyxel P-2812HNUL-F1 with broken wifi
